@@ -1,2 +1,3 @@
 # study_note
-my study notes
+个人笔记+工作总结
+By：Hackshen
